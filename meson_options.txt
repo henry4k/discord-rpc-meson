@@ -1,0 +1,4 @@
+option('io_thread',
+    type: 'boolean',
+    value: true,
+    description: 'Start up a separate I/O thread, otherwise I\'d need to call an update function')

@@ -1,0 +1,4 @@
+[wrap-git]
+directory=discord-rpc
+url=https://github.com/henry4k/discord-rpc-meson
+revision=head
